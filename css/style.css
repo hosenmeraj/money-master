@@ -1,0 +1,28 @@
+body {
+    background-color: black;
+  }
+  
+  /* App Headline */
+  .text-lime-green {
+    color: #95be02;
+  }
+  
+  /* App Image Styling Start Here */
+  
+  #image {
+    height: 632px;
+    width: 100%;
+  }
+  
+  /* Buttons Styling Starts Here */
+  .btn-lime-green {
+    font-weight: bold;
+    background-color: #95be02;
+    color: white;
+    border-radius: 4px;
+    padding: 8px 15px;
+    border: 0;
+  }
+  
+
+  
