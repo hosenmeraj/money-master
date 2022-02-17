@@ -1,5 +1,5 @@
 body {
-    background-color: black;
+    background-color: rgb(58, 51, 51);
   }
   
   /* App Headline */
@@ -24,5 +24,12 @@ body {
     border: 0;
   }
   
-
+  /* Error Styling */
+  #string-error,
+  #negative-value-error,
+  #saving-error {
+    display: none;
+    color: red;
+    font-weight: bold;
+  }
   
